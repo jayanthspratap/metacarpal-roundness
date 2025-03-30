@@ -1,5 +1,5 @@
-# Metacarpal Head Roundness in Thumb UCL Rupture Patients: A Case-Control Study (coming soon!)
-Associated with "Metacarpal Head Roundness in Thumb UCL Rupture Patients: A Case-Control Study" by I. Legerstee, L. Freundt, J. Pratap, J. Lans, A. Bhashyam, N. Chen
+# Metacarpal Head Roundness in Thumb UCL Rupture Patients: A Case-Control Study
+Associated with Legerstee, I. W. F., Freundt, L. A., Pratap, J. S., Lans, J., Chen, N. C., & Bhashyam, A. R. (2025). The Association of Metacarpal Head Morphology with Risk of Ulnar Collateral Ligament Rupture. In The Journal of Hand Surgery. Elsevier BV. https://doi.org/10.1016/j.jhsa.2025.02.017
 
 ![image](https://github.com/jayanthspratap/metacarpal-roundness/assets/33165884/ac9235c0-25ed-40ff-b541-1a0aca352333)
 
